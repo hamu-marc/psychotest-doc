@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Referenční příručka editoru pro psychoakustické a psychovizuální testy](README.md)
 
