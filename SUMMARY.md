@@ -17,5 +17,4 @@
   * [Zvuk jako tlačítko](typy-stimulu-a-jejich-prezentace/zvuk-jako-tlacitko.md)
   * [Zvuk s řídícími prvky \(controls\)](typy-stimulu-a-jejich-prezentace/zvuk-s-ridicimi-prvky-controls.md)
   * [Zvuk s grafickým průběhem signálu \(waveform\)](typy-stimulu-a-jejich-prezentace/zvuk-s-grafickym-prubehem-signalu-waveform.md)
-* [Untitled](untitled.md)
 
