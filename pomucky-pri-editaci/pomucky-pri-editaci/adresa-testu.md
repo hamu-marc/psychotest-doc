@@ -6,7 +6,7 @@ Stisknutím tlačítka Adresa URL testu:
 
 se vygeneruje unikátní adresa testu, ve které je zakódováno umístění testu a stimulů a také kam se mají nahrát výsledky. URL lze zkopírovat do schánky a poslat např. e-mailem účastníkům, případně lze vyzkoušet v novém okně prohlížeče.
 
-![](../../.gitbook/assets/7ri5llc1ba.gif)
+![](../../.gitbook/assets/qpeqbxjfym.gif)
 
 
 

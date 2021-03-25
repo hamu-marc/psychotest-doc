@@ -6,7 +6,7 @@ Stisknutí tlačítka 'Seznam stimulů'
 
 se zobrazí seznam dostupných stimulů, které lze přiřadit do testovací obrazovky. Kliknutím na stimul se vytvoří na kurzoru editoru nový řádek s klíčovým slovem stimulus a konkrétním souborem.
 
-![](../../.gitbook/assets/qcip9tb3wj.gif)
+![](../../.gitbook/assets/yjh318thnw.gif)
 
 
 

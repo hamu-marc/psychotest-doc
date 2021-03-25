@@ -4,7 +4,7 @@ Pro vygenerování rychlého náhledu obrazovky testu stiskněte tlačítko 'Ná
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-V pravé části se vygeneruje hrubý náhled obrazovky, na kterém se vyskytuje kurzor v editoru.
+V pravé části se vygeneruje hrubý náhled obrazovky, na kterém se vyskytuje kurzor v editoru. Po změně textu či struktury textu je opět možné v náhledu vidět změnu.
 
-![](../../.gitbook/assets/7wxj02hjxb.gif)
+![](../../.gitbook/assets/mz6ix9q3qx.gif)
 
