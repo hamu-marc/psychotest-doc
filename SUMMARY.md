@@ -4,9 +4,16 @@
 
 ## Pomůcky při editaci
 
-* [Náhled obrazovky](pomucky-pri-editaci/nahled-obrazovky.md)
-* [Rychlý manuál](pomucky-pri-editaci/rychly-manual.md)
-* [Seznam stimulů](pomucky-pri-editaci/seznam-stimulu.md)
-* [Adresa testu](pomucky-pri-editaci/adresa-testu.md)
-* [Přehrát test](pomucky-pri-editaci/prehrat-test.md)
+* [Pomůcky při editaci](pomucky-pri-editaci/pomucky-pri-editaci/README.md)
+  * [Náhled obrazovky](pomucky-pri-editaci/pomucky-pri-editaci/nahled-obrazovky.md)
+  * [Rychlý manuál](pomucky-pri-editaci/pomucky-pri-editaci/rychly-manual.md)
+  * [Seznam stimulů](pomucky-pri-editaci/pomucky-pri-editaci/seznam-stimulu.md)
+  * [Adresa testu](pomucky-pri-editaci/pomucky-pri-editaci/adresa-testu.md)
+  * [Přehrát test](pomucky-pri-editaci/pomucky-pri-editaci/prehrat-test.md)
+
+---
+
+* [Typy stimulů a jejich prezentace](typy-stimulu-a-jejich-prezentace/README.md)
+  * [Zvuk jako tlačítko](typy-stimulu-a-jejich-prezentace/zvuk-jako-tlacitko.md)
+* [Untitled](untitled.md)
 
