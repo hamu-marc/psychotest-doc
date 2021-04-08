@@ -10,7 +10,7 @@ test demo1zvuky
   stimulus 1.wav
 ```
 
-![Zobrazen&#xED; stimulu na obrazovce jako tla&#x10D;&#xED;tko](../.gitbook/assets/image%20%286%29.png)
+![Zobrazen&#xED; stimulu na obrazovce jako tla&#x10D;&#xED;tko](../.gitbook/assets/image%20%286%29%20%281%29.png)
 
 ### Přehrání jen části zvuku
 
