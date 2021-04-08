@@ -2,22 +2,6 @@
 
 Pořadí zvuků na tlačítkách je určeno pořadím v definici testu. Je ale možné zamíchat pořadím zvuků definovaným na řádku pomocí klíčového slova `randomstimuli` a `randomintuple` .
 
-### Náhodné pořadí stimulů v rámci obrazovky
-
-`randomstimuli` nastaví, že se řádky obsahující definici stimulů promíchají v rámci obrazovky náhodně.
-
-```text
-  test CiselneStimuli
-    randomstimuli
-  screen Více stimulů náhodně
-    stimulus 1.wav 
-    stimulus 2.wav 
-    stimulus 5.wav 
-    stimulus 7.wav
-```
-
-### 
-
 ### Náhodné pořadí zvuků ve skupině \(na řádku\)
 
 Pomocí `randomintuple` buď na začátku definice testu nebo v rámci obrazovky po definici stimulu a tasku je možné určit, že soubory v rámci jednoho řádku stimulu je možno náhodně zamíchat.
@@ -68,7 +52,19 @@ Je tedy možné vytvořit 2 skupiny, v každé skupině se pořadí zamíchá al
 
 ![V prvn&#xED;m sloupci tla&#x10D;&#xED;tka p&#x159;ehraj&#xED; zvuky 1 a 2 po&#x159;ad&#xED; n&#xE1;hodn&#xE9;, druh&#xFD; sloupce obdobn&#x11B; pro zvuky 5 a 7](../.gitbook/assets/image%20%2814%29.png)
 
+<pre>
+TODO
+### Náhodné pořadí stimulů v rámci obrazovky
 
+`randomstimuli` nastaví, že se řádky obsahující definici stimulů promíchají v rámci obrazovky náhodně.
 
-
-
+```text
+  test CiselneStimuli
+    randomstimuli
+  screen Více stimulů náhodně
+    stimulus 1.wav 
+    stimulus 2.wav 
+    stimulus 5.wav 
+    stimulus 7.wav
+```
+</pre>
