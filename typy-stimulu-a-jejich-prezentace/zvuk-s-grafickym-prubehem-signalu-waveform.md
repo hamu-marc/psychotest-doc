@@ -10,5 +10,7 @@ test demo1zvuky
   stimulus(waveform) ukazka1.mp3
 ```
 
-![Zobrazen&#xED; stimulu na obrazovce s &#x159;&#xED;d&#xED;c&#xED;mi prvky a grafick&#xFD;m pr&#x16F;b&#x11B;hem sign&#xE1;lu zvuku \(waveform\)](../.gitbook/assets/image%20%287%29.png)
+![Zobrazen&#xED; stimulu na obrazovce s &#x159;&#xED;d&#xED;c&#xED;mi prvky a grafick&#xFD;m pr&#x16F;b&#x11B;hem sign&#xE1;lu zvuku \(waveform\). ](../.gitbook/assets/image%20%287%29.png)
+
+Horní část průběhu signálu zobrazuje detailní pohled na část. Spodní část průběhu zobrazuje celý soubor a význačuje výseč ve kterém je detail signálu. Svislá čára zobrazuje přibližně aktuálně přehrávanou část zvukového signálu.
 
