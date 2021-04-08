@@ -10,5 +10,5 @@ test demo3videa
   values "zvuk předbíhá video", "zvuk synchronizován s videem", "zvuk je opožděn"
 ```
 
-![Zobrazen&#xED; stimulu s video souborem, vedle je task](../.gitbook/assets/image%20%289%29.png)
+![Zobrazen&#xED; stimulu s video souborem, vedle je task](../.gitbook/assets/image%20%2810%29.png)
 

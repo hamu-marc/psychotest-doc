@@ -13,7 +13,7 @@ test demo2obrázky
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obr&#xE1;zku a tasku vedle n&#x11B;j.](../.gitbook/assets/image%20%2810%29.png)
+![Prezentace obr&#xE1;zku a tasku vedle n&#x11B;j.](../.gitbook/assets/image%20%2815%29.png)
 
 
 
