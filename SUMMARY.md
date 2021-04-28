@@ -4,6 +4,7 @@
 
 ## Pomůcky při editaci
 
+* [Seznam testů](pomucky-pri-editaci/seznam-testu.md)
 * [Pomůcky při editaci](pomucky-pri-editaci/pomucky-pri-editaci/README.md)
   * [Náhled obrazovky](pomucky-pri-editaci/pomucky-pri-editaci/nahled-obrazovky.md)
   * [Rychlý manuál](pomucky-pri-editaci/pomucky-pri-editaci/rychly-manual.md)
