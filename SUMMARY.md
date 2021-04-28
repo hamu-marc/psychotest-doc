@@ -8,6 +8,7 @@
   * [Náhled obrazovky](pomucky-pri-editaci/pomucky-pri-editaci/nahled-obrazovky.md)
   * [Rychlý manuál](pomucky-pri-editaci/pomucky-pri-editaci/rychly-manual.md)
   * [Seznam stimulů](pomucky-pri-editaci/pomucky-pri-editaci/seznam-stimulu.md)
+  * [Seznam stimulů v adresáři](pomucky-pri-editaci/pomucky-pri-editaci/seznam-stimulu-v-adresari.md)
   * [Adresa testu](pomucky-pri-editaci/pomucky-pri-editaci/adresa-testu.md)
   * [Přehrát test](pomucky-pri-editaci/pomucky-pri-editaci/prehrat-test.md)
 
