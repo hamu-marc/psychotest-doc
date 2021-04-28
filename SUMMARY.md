@@ -21,4 +21,5 @@
   * [Zvuk s grafickým průběhem signálu \(waveform\)](typy-stimulu-a-jejich-prezentace/zvuk-s-grafickym-prubehem-signalu-waveform.md)
   * [Obrázek](typy-stimulu-a-jejich-prezentace/obrazek.md)
   * [Video](typy-stimulu-a-jejich-prezentace/video.md)
+  * [Stimuli vždy na obrazovce](typy-stimulu-a-jejich-prezentace/stimuli-vzdy-na-obrazovce.md)
 
