@@ -19,5 +19,6 @@
   * [Video](typy-stimulu-a-jejich-prezentace/video.md)
   * [Stimuli vždy na obrazovce](typy-stimulu-a-jejich-prezentace/stimuli-vzdy-na-obrazovce.md)
 * [Různé](ruzne/README.md)
-  * [Seznam testů](ruzne/seznam-testu.md)
+  * [Seznam testů a třídění dle data](ruzne/seznam-testu.md)
+  * [Uložení testu](ruzne/ulozeni-testu.md)
 

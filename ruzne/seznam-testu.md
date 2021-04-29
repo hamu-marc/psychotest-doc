@@ -1,4 +1,4 @@
-# Seznam testů
+# Seznam testů a třídění dle data
 
 Obrazovka se seznamem připojených datových uložišť a seznamem testů v nich.
 
