@@ -7,7 +7,7 @@ Stisknutím tlačítka Adresa URL testu:
 se vygeneruje unikátní adresa testu, ve které je zakódováno umístění testu a stimulů a také kam se mají nahrát výsledky. URL lze zkopírovat do schánky a poslat např. e-mailem účastníkům, případně lze vyzkoušet v novém okně prohlížeče.
 
 {% hint style="info" %}
-Link testu obsahuje značku `performtest,`která způsobí, že při procházení obrazovek je vyžadováno vyplnění odpovědí. Tento link můžete použít pro distribuci testu ke konečnému uživateli.
+Adresa URL přehraje naposledy uloženou verzi testu. Nezapomeňte uložit editovanou verzi pomocí tlačítka 'Ulož'.
 {% endhint %}
 
 ![](../../.gitbook/assets/qpeqbxjfym.gif)
