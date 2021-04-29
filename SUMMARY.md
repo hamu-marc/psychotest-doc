@@ -1,19 +1,13 @@
 # Table of contents
 
 * [Referenční příručka editoru pro psychoakustické a psychovizuální testy](README.md)
-
-## Další
-
-* [Pomůcky při editaci](dalsi/pomucky-pri-editaci/README.md)
-  * [Náhled obrazovky](dalsi/pomucky-pri-editaci/nahled-obrazovky.md)
-  * [Rychlý manuál](dalsi/pomucky-pri-editaci/rychly-manual.md)
-  * [Seznam stimulů](dalsi/pomucky-pri-editaci/seznam-stimulu.md)
-  * [Seznam stimulů v adresáři](dalsi/pomucky-pri-editaci/seznam-stimulu-v-adresari.md)
-  * [Adresa testu](dalsi/pomucky-pri-editaci/adresa-testu.md)
-  * [Přehrát test](dalsi/pomucky-pri-editaci/prehrat-test.md)
-
----
-
+* [Pomůcky při editaci](pomucky-pri-editaci/README.md)
+  * [Náhled obrazovky](pomucky-pri-editaci/nahled-obrazovky.md)
+  * [Rychlý manuál](pomucky-pri-editaci/rychly-manual.md)
+  * [Seznam stimulů](pomucky-pri-editaci/seznam-stimulu.md)
+  * [Seznam stimulů v adresáři](pomucky-pri-editaci/seznam-stimulu-v-adresari.md)
+  * [Adresa testu](pomucky-pri-editaci/adresa-testu.md)
+  * [Přehrát test](pomucky-pri-editaci/prehrat-test.md)
 * [Typy stimulů a jejich prezentace](typy-stimulu-a-jejich-prezentace/README.md)
   * [Untitled](typy-stimulu-a-jejich-prezentace/untitled.md)
   * [Zvuk jako tlačítko](typy-stimulu-a-jejich-prezentace/zvuk-jako-tlacitko.md)
