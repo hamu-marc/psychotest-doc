@@ -9,7 +9,6 @@
   * [Adresa testu](pomucky-pri-editaci/adresa-testu.md)
   * [Přehrát test](pomucky-pri-editaci/prehrat-test.md)
 * [Typy stimulů a jejich prezentace](typy-stimulu-a-jejich-prezentace/README.md)
-  * [Untitled](typy-stimulu-a-jejich-prezentace/untitled.md)
   * [Zvuk jako tlačítko](typy-stimulu-a-jejich-prezentace/zvuk-jako-tlacitko.md)
   * [Zvuk jako tlačítko s čísly a nápisem](typy-stimulu-a-jejich-prezentace/zvuk-jako-tlacitko-s-cisly-a-napisem.md)
   * [Zvuk s náhodným pořadím](typy-stimulu-a-jejich-prezentace/zvuk-s-nahodnym-poradim.md)
