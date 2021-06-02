@@ -31,7 +31,7 @@ screen Obrazové stimuly vpravo
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obr&#xE1;zku vpravo od ostatn&#xED;ho textu a task&#x16F;](../.gitbook/assets/image%20%2818%29.png)
+![Prezentace obr&#xE1;zku vpravo od ostatn&#xED;ho textu a task&#x16F;](../.gitbook/assets/image%20%2819%29.png)
 
 ### Obrázek uprostřed
 
@@ -46,7 +46,7 @@ screen Obrazové stimuly vpravo
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obr&#xE1;zku uprost&#x159;ed naho&#x159;e.](../.gitbook/assets/image%20%2819%29.png)
+![Prezentace obr&#xE1;zku uprost&#x159;ed naho&#x159;e.](../.gitbook/assets/image%20%2829%29.png)
 
 ### Obrázek uprostřed nahoře a zafixován při rolovaní okna
 

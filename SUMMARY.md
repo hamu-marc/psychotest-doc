@@ -17,6 +17,8 @@
   * [Obrázek a jeho prezentace vlevo, vpravo, nahoře](typy-stimulu-a-jejich-prezentace/obrazek.md)
   * [Video](typy-stimulu-a-jejich-prezentace/video.md)
   * [Stimuli vždy na obrazovce](typy-stimulu-a-jejich-prezentace/stimuli-vzdy-na-obrazovce.md)
+* [Typy úkolů \(task\) a jejich prezentace](typy-ukolu-task-a-jejich-prezentace/README.md)
+  * [Škály \(scale\) a možnosti zobrazení](typy-ukolu-task-a-jejich-prezentace/skaly-scale-a-moznosti-zobrazeni.md)
 * [Různé](ruzne/README.md)
   * [Seznam testů a třídění dle data](ruzne/seznam-testu.md)
   * [Uložení testu](ruzne/ulozeni-testu.md)
