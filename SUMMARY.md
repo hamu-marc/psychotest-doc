@@ -14,7 +14,7 @@
   * [Zvuk s náhodným pořadím](typy-stimulu-a-jejich-prezentace/zvuk-s-nahodnym-poradim.md)
   * [Zvuk s řídícími prvky \(controls\)](typy-stimulu-a-jejich-prezentace/zvuk-s-ridicimi-prvky-controls.md)
   * [Zvuk s grafickým průběhem signálu \(waveform\)](typy-stimulu-a-jejich-prezentace/zvuk-s-grafickym-prubehem-signalu-waveform.md)
-  * [Obrázek](typy-stimulu-a-jejich-prezentace/obrazek.md)
+  * [Obrázek a jeho prezentace vlevo, vpravo, nahoře](typy-stimulu-a-jejich-prezentace/obrazek.md)
   * [Video](typy-stimulu-a-jejich-prezentace/video.md)
   * [Stimuli vždy na obrazovce](typy-stimulu-a-jejich-prezentace/stimuli-vzdy-na-obrazovce.md)
 * [Různé](ruzne/README.md)
