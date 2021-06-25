@@ -1,13 +1,13 @@
 # Stimuli vždy na obrazovce
 
-V obrazovce, kde se nachází více úkolů se může stát, že se vpravo zobrazí scrolovací sloupec a při skrolován dolů stimuli zmizí \(tlačítka zvuků, obrázek nebo video zmizí nahoře\). V tomto případě může být vhodné zafixovat pozici stimulů na obrazovce při skrolování. K tomu stačí kdekoliv na dotčené obrazovce přidat tento speciální text.
+V obrazovce, kde se nachází více úkolů se může stát, že se vpravo zobrazí scrolovací sloupec a při skrolován dolů stimuli zmizí \(tlačítka zvuků, obrázek nebo video zmizí nahoře\). V tomto případě může být vhodné zafixovat pozici stimulů na obrazovce při skrolování. K tomu stačí kdekoliv na dotčené obrazovce přidat tuto speciální poznámku `#css`
 
 ```text
-text <style>.stimulus{position:sticky;top:0;z-index:1}</style>
+#css .stimulus{position:sticky;top:0;z-index:1}
 ```
 
 {% hint style="warning" %}
-tento text ve skutečnosti přidá CSS styl, který pro stimulus nastaví pozici 'sticky'. Při skrolování zůstane přilepená k horní hranici viditelné plochy obrazovky \(top:0\) a bude o něco výše, tj. zakrývat  ostatní prvky \(z-index:1\).
+tato poznámka ve skutečnosti přidá CSS styl. `.stimulus` je tzv. selektor - označí elementy, které mají třídu s názvem "stimulus" a těm přiřadí styl "position:sticky", tj. přilepení elementu na obrazovku při skrolování, na pozici "top:0" a bude viditelná, tj. překryje jiné elementy, pokud se dostanou pod ní "z-index:1".
 {% endhint %}
 
 Příkladem je následující obrazovka s hodnocením více poruch hlasu:
@@ -16,7 +16,7 @@ Příkladem je následující obrazovka s hodnocením více poruch hlasu:
 test demo2Scrolling.ptest
 screen rolování dlouhého obsahu, 1 stimul nahoře 
   stimulus(buttoncz1) 1.wav
-  text <style>.stimulus{position:sticky;top:0;z-index:1}</style>
+  #css .stimulus{position:sticky;top:0;z-index:1}
   
   text Po stlačení tlačítka <b>play</b> se spustí nahrávka hlasu.
     text Ohodnoťte ji v následujících vlastnostech, případně dopište významné projevy patologie hlasu do Poznámky.
