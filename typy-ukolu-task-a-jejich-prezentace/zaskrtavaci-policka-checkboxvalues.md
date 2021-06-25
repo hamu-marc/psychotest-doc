@@ -4,7 +4,7 @@ Zaškrtávací políčka lze využít pro výběr více než jedné hodnoty.
 
 ### Hodnoty pod sebou
 
-`checkboxvalues`zobrazí hodnoty pod sebou:
+`checkboxvalues`po němž následuje seznam možností oddělených mezerou \(pokud hodnota má obsahovat mezeru, dejte ji do uvozovek `"`\) zobrazí hodnoty pod sebou:
 
 ```text
 screen výběr z více možností
@@ -23,8 +23,8 @@ screen výběr z více možností
 screen výběr z více možností
   stimulus 1.wav
   task vyberte poruchy, které jsou v hlasu patrné
-  checkboxvaluesonrow "dyšnost" "slabost" "chraplavost" "nestabilita"
+  checkboxvaluesonrow "vše v normě" "porucha dyšnosti" "hlasová slabost" "hlasové napětí" "chraplavost" "nestabilita"
 ```
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
