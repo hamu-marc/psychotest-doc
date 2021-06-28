@@ -22,6 +22,7 @@
   * [Zaškrtávací políčka \(checkboxvalues\)](typy-ukolu-task-a-jejich-prezentace/zaskrtavaci-policka-checkboxvalues.md)
   * [Přepínač - radio button \(values\)](typy-ukolu-task-a-jejich-prezentace/prepinac-radio-button-values.md)
 * [Různé](ruzne/README.md)
+  * [Untitled](ruzne/untitled.md)
   * [Seznam testů a třídění dle data](ruzne/seznam-testu.md)
   * [Uložení testu](ruzne/ulozeni-testu.md)
   * [Výsledky testů](ruzne/vysledky-testu.md)
