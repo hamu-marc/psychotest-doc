@@ -4,15 +4,26 @@ Stisknutím tlačítka Adresa URL testu:
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-se vygeneruje unikátní adresa testu, ve které je zakódováno umístění testu a stimulů a také kam se mají nahrát výsledky. URL lze zkopírovat do schánky a poslat např. e-mailem účastníkům, případně lze vyzkoušet v novém okně prohlížeče.
+se vygeneruje unikátní adresa \(tzv. URL\) testu, ve které je zakódováno umístění testu a stimulů.  
+
+1. První URL pustí v prohlížeči nejprve úvodní obrazovku a poté pustí test podle definované struktury. 
+2. Druhé URL pustí rovnou test dle definované struktury
+
+Vybrané URL lze zkopírovat do schánky \(tlačítko Copy to clipboard\) a poslat např. e-mailem účastníkům, případně lze vyzkoušet v novém okně prohlížeče. 
 
 {% hint style="info" %}
-Adresa URL přehraje naposledy uloženou verzi testu. Nezapomeňte uložit editovanou verzi pomocí tlačítka 'Ulož'.
+Adresa URL přehraje test podle definované struktury v naposledy uložené verzi souboru. Nezapomeňte uložit editovanou verzi pomocí tlačítka 'Ulož'.
 {% endhint %}
 
-![](../.gitbook/assets/qpeqbxjfym.gif)
+![Prvn&#xED; URL nejprve zobraz&#xED; &#xFA;vodn&#xED; obrazovku a pak test. Druh&#xE9; URL vykon&#xE1; test rovnou.](../.gitbook/assets/z06s9jybi8.gif)
 
+### Zkrácení adresy testu
 
+Adresa testu v sobě obsahuje zakódované umístění testu, umístění výsledků a umístění stimulů, které se v průběhu testu načítají. Tato adresa je tudíž dlouhá, lze využít obecné zkracovače URL např.
+
+* Služba BITLY na adrese [https://bitly.com](https://bitly.com) zkracuje dlouhá URL, i bez registrace lze vytvořit zkrácené URL ve formě https://bit.ly/.... 
+
+![Vytvo&#x159;en&#xED; zkr&#xE1;cen&#xE9;ho URL pomoc&#xED; slu&#x17E;by BITLY](../.gitbook/assets/j6x4nxfxdl.gif)
 
 
 
