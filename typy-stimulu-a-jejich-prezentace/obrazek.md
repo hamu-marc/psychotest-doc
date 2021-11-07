@@ -4,7 +4,7 @@
 
 
 
-```text
+```
 test demo2obrázky
   screen Čtvrtá obrazovka
   stimulus IMG_4604.JPG
@@ -13,15 +13,15 @@ test demo2obrázky
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obr&#xE1;zku a tasku vedle n&#x11B;j.](../.gitbook/assets/image%20%2815%29.png)
+![Prezentace obrázku a tasku vedle něj.](<../.gitbook/assets/image (15).png>)
 
-Stimuli se zobrazí vlevo a úkoly \(tasky\) se zobrazí postupně vpravo a dolu.
+Stimuli se zobrazí vlevo a úkoly (tasky) se zobrazí postupně vpravo a dolu.
 
 ### Obrázek vpravo
 
 Pro změnu zobrazení obrázku vpravo je možno využít CSS styl a vložit ho jako text do obrazovky: `text <style>.stimulus{float:right}</style>`
 
-```text
+```
 
 screen Obrazové stimuly vpravo
   stimulus IMG_4604.JPG
@@ -31,13 +31,13 @@ screen Obrazové stimuly vpravo
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obr&#xE1;zku vpravo od ostatn&#xED;ho textu a task&#x16F;](../.gitbook/assets/image%20%2819%29.png)
+![Prezentace obrázku vpravo od ostatního textu a tasků](<../.gitbook/assets/image (19).png>)
 
 ### Obrázek uprostřed
 
-Pro zobrazení obrázku nahoře uprostřed je možné opět využít následující CSS styl a vložit ho jako _text_  do obrazovky: `text <style>.stimulus{width:100%} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
+Pro zobrazení obrázku nahoře uprostřed je možné opět využít následující CSS styl a vložit ho jako _text  _do obrazovky: `text <style>.stimulus{width:100%} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
 
-```text
+```
 screen Obrazové stimuly vpravo
   stimulus IMG_4604.JPG
   text <style>.stimulus{width:100%} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>
@@ -46,13 +46,13 @@ screen Obrazové stimuly vpravo
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obr&#xE1;zku uprost&#x159;ed naho&#x159;e.](../.gitbook/assets/image%20%2829%29.png)
+![Prezentace obrázku uprostřed nahoře.](<../.gitbook/assets/image (29).png>)
 
 ### Obrázek uprostřed nahoře a zafixován při rolovaní okna
 
-Pro zobrazení obrázku nahoře uprostřed a navíc zafixování viditelnosti při rolování je možné opět využít následující CSS styl a vložit ho jako _text_  do obrazovky: `text <style>.stimulus{width:100%;position:sticky;top:0;z-index:1} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
+Pro zobrazení obrázku nahoře uprostřed a navíc zafixování viditelnosti při rolování je možné opět využít následující CSS styl a vložit ho jako _text  _do obrazovky: `text <style>.stimulus{width:100%;position:sticky;top:0;z-index:1} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
 
-```text
+```
 screen Obrazové stimuli nahoře uprostřed zafixované
   stimulus IMG_4604.JPG
   text <style>.stimulus{width:100%;position:sticky;top:0;z-index:1} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>
@@ -70,7 +70,5 @@ screen Obrazové stimuli nahoře uprostřed zafixované
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obr&#xE1;zku uprost&#x159;ed naho&#x159;e a zafixovan&#xE9; p&#x159;i rolov&#xE1;n&#xED;](../.gitbook/assets/1lmroyhxiw.gif)
-
-
+![Prezentace obrázku uprostřed nahoře a zafixované při rolování](../.gitbook/assets/1lmroyhxiw.gif)
 
