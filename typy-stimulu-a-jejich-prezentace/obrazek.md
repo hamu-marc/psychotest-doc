@@ -35,7 +35,7 @@ screen Obrazové stimuly vpravo
 
 ### Obrázek uprostřed
 
-Pro zobrazení obrázku nahoře uprostřed je možné opět využít následující CSS styl a vložit ho jako _text  _do obrazovky: `text <style>.stimulus{width:100%} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
+Pro zobrazení obrázku nahoře uprostřed je možné opět využít následující CSS styl a vložit ho jako _text_  do obrazovky: `text <style>.stimulus{width:100%} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
 
 ```
 screen Obrazové stimuly vpravo
@@ -50,7 +50,7 @@ screen Obrazové stimuly vpravo
 
 ### Obrázek uprostřed nahoře a zafixován při rolovaní okna
 
-Pro zobrazení obrázku nahoře uprostřed a navíc zafixování viditelnosti při rolování je možné opět využít následující CSS styl a vložit ho jako _text  _do obrazovky: `text <style>.stimulus{width:100%;position:sticky;top:0;z-index:1} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
+Pro zobrazení obrázku nahoře uprostřed a navíc zafixování viditelnosti při rolování je možné opět využít následující CSS styl a vložit ho jako _text_  do obrazovky: `text <style>.stimulus{width:100%;position:sticky;top:0;z-index:1} .stimulus img{margin-left:auto;margin-right:auto;display:block}</style>`
 
 ```
 screen Obrazové stimuli nahoře uprostřed zafixované

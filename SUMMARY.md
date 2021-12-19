@@ -23,6 +23,7 @@
   * [Přepínač - radio button (values)](typy-ukolu-task-a-jejich-prezentace/prepinac-radio-button-values.md)
   * [Seřazovací (třídící) úkol](typy-ukolu-task-a-jejich-prezentace/serazovaci-tridici-ukol.md)
   * [Párový test](typy-ukolu-task-a-jejich-prezentace/parovy-test.md)
+  * [Body a segmenty v průběhu signálu (waveform)](typy-ukolu-task-a-jejich-prezentace/body-a-segmenty-v-prubehu-signalu-waveform.md)
 * [Různé](ruzne/README.md)
   * [Umístění testů a stimulů](ruzne/umisteni.md)
   * [Seznam testů a třídění dle data](ruzne/seznam-testu.md)
