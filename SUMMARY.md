@@ -25,6 +25,7 @@
   * [Párový test](typy-ukolu-task-a-jejich-prezentace/parovy-test.md)
   * [Body a segmenty v průběhu signálu (waveformpoint, waveformsegment)](typy-ukolu-task-a-jejich-prezentace/body-a-segmenty-v-prubehu-signalu-waveformpoint-waveformsegment.md)
   * [Body na obrázku (imagepoint, imagemultipoint)](typy-ukolu-task-a-jejich-prezentace/body-na-obrazku-imagepoint-imagemultipoint.md)
+  * [Body ve videu (videopoint, videomultipoint)](typy-ukolu-task-a-jejich-prezentace/body-ve-videu-videopoint-videomultipoint.md)
 * [Různé](ruzne/README.md)
   * [Umístění testů a stimulů](ruzne/umisteni.md)
   * [Seznam testů a třídění dle data](ruzne/seznam-testu.md)
