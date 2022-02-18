@@ -14,4 +14,4 @@ screen Výběr bodu ve videu
   videopoint
 ```
 
-![](../.gitbook/assets/TeFqWljtKg.gif)
+![](../.gitbook/assets/firefox\_CRCaKGiPnE.gif)
