@@ -33,3 +33,4 @@
   * [Uložení testu](ruzne/ulozeni-testu.md)
   * [Výsledky testů](ruzne/vysledky-testu.md)
   * [Styly prvků v generovaném testu](ruzne/styly-prvku-v-generovanem-testu.md)
+  * [Seznam veřejných testů](ruzne/seznam-verejnych-testu.md)
