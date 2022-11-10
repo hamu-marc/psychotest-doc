@@ -34,4 +34,5 @@
   * [Výsledky testů](ruzne/vysledky-testu.md)
   * [Styly prvků v generovaném testu](ruzne/styly-prvku-v-generovanem-testu.md)
   * [Seznam veřejných testů](ruzne/seznam-verejnych-testu.md)
+  * [Omezení šířky obrazovky](ruzne/omezeni-sirky-obrazovky.md)
 * [Edukační mód](edukacni-mod.md)

@@ -53,7 +53,7 @@ Výsledek testu lze nahrát do sdíleného dokumentu Google Sheets. Ten musí m�
 2. následující řádky obsahují položky testu a vzorovou odpověď ve sloupci answer
 3. Prováděcí test pak najde opdovídající dvojice case a task a zobrazí vzorovou odpověď
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Dokument google sheet, je potřeba sdílet pomocí linku který se vytvoří tlačítkem Share/Sdílet
 
