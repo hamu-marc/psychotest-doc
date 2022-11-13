@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Referenční příručka editoru pro psychoakustické a psychovizuální testy](README.md)
+* [Připojení datového uložiště](pripojeni-datoveho-uloziste.md)
 * [Pomůcky při editaci](pomucky-pri-editaci/README.md)
   * [Náhled obrazovky](pomucky-pri-editaci/nahled-obrazovky.md)
   * [Rychlý manuál](pomucky-pri-editaci/rychly-manual.md)
