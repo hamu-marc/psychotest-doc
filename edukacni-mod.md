@@ -66,3 +66,19 @@ test demo1PomuckyEduGSheet.ptest
     randomstimuli 
   type educational https://docs.google.com/spreadsheets/d/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/edit?usp=sharing
 ```
+
+## Edukační mód pro Ranking2D
+
+Ve výsledku je nutné definovat odpověď v poli answer v tomto formátu
+
+```
+audio[1]160,16|audio[2]255,55|audio[3]381,98
+```
+
+Např. jak je vidět v tabulce sdíleného Google Sheetu
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Při vyplňování testu se zobrazí edukativní (vzorové hodnoty) v ranking 2D jinak podbarveny
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 Test lze přehrát v režimu ladění, kdy není kontrolováno vyplnění úkolu pomocí tlačítka 'Přehrát test'.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Vyvolá se nové okno prohlížeče v kterém lze rychle přejíždět další obrazovky a zkontrolovat vizualizaci tak, jak se opravdu zobrazí účastníkovi testu. Nové okno po zkontrolování lze zavřít.
 
@@ -11,6 +11,4 @@ Pozor! URL adresa testu obsahuje značku `performtest/mode/debug,`která způsob
 {% endhint %}
 
 ![](../.gitbook/assets/vptoxwt4ut.gif)
-
-
 
