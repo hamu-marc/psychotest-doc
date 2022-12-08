@@ -51,7 +51,8 @@ Výsledek testu lze nahrát do sdíleného dokumentu Google Sheets. Ten musí m�
 
 1. první řádek obsahuje názvy sloupců `case task answer` a volitelne `min max`
 2. následující řádky obsahují položky testu a vzorovou odpověď ve sloupci answer
-3. Prováděcí test pak najde opdovídající dvojice case a task a zobrazí vzorovou odpověď
+3. List musí být pojmenovaný `Sheet1`
+4. Prováděcí test pak najde opdovídající dvojice case a task a zobrazí vzorovou odpověď
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
