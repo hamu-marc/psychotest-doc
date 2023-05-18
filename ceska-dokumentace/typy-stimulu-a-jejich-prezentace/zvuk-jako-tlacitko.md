@@ -10,7 +10,11 @@ test demo1zvuky
   stimulus 1.wav
 ```
 
-![Zobrazení stimulu na obrazovce jako tlačítko](<../../.gitbook/assets/image (6) (1).png>)
+<div align="center">
+
+<img src="../../.gitbook/assets/image (6) (1).png" alt="Zobrazení stimulu na obrazovce jako tlačítko">
+
+</div>
 
 ### Přehrání jen části zvuku
 
