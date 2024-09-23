@@ -17,13 +17,11 @@ screen národní nápisy u tlačítek zvuku
   stimulus(buttonen) 4.wav
 ```
 
-![Národní nápisy u tlačítek](<../../.gitbook/assets/image (16).png>)
+![Národní nápisy u tlačítek](<../../.gitbook/assets/image (16) (1).png>)
 
 ### Malé číslíčko udávající pořadí stimulu na obrazovce
 
 U tlačítka stimulu, lze zapnout příponou `1`za klíčovým slovem `button` případně s národní mutací návěští `buttoncz` , aby se zobrazilo malé číslíčko u tlačítka udávající pořadí na obrazovce. Vygenerované číslo v žádném případě neurčuje pořadí v jakém jsou definice, neboť předchozí definicce `randomintuple` toto pořadí náhodně promíchá.
-
-###
 
 ```
 screen pořadové nápisy u tlačítek zvuku

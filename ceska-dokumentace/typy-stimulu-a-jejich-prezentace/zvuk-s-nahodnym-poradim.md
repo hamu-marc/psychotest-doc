@@ -50,7 +50,7 @@ Je tedy možné vytvořit 2 skupiny, v každé skupině se pořadí zamíchá al
     randomintuple
 ```
 
-![V prvním sloupci tlačítka přehrají zvuky 1 a 2 pořadí náhodné, druhý sloupce obdobně pro zvuky 5 a 7](<../../.gitbook/assets/image (14).png>)
+![V prvním sloupci tlačítka přehrají zvuky 1 a 2 pořadí náhodné, druhý sloupce obdobně pro zvuky 5 a 7](<../../.gitbook/assets/image (14) (1).png>)
 
 TODO: zatiaľ nepremáva
 

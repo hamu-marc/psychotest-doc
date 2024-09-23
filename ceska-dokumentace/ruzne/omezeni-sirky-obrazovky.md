@@ -25,7 +25,7 @@ test demo1PomuckyEduGSheet.ptest
   ...
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>fixedscreenM</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>fixedscreenM</p></figcaption></figure>
 
 ```
 test demo1PomuckyEduGSheet.ptest

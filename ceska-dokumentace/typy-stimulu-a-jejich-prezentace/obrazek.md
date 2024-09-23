@@ -13,7 +13,7 @@ test demo2obrázky
   values plaz, obojživelník, ryba, pták, savec
 ```
 
-![Prezentace obrázku a tasku vedle něj.](<../../.gitbook/assets/image (15).png>)
+![Prezentace obrázku a tasku vedle něj.](<../../.gitbook/assets/image (15) (1).png>)
 
 Stimuli se zobrazí vlevo a úkoly (tasky) se zobrazí postupně vpravo a dolu.
 
