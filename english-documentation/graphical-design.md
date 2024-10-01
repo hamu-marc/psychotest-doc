@@ -16,8 +16,8 @@ The adjacent step of the workflow includes selecting the components in the graph
 
 ## Placing the response elements
 
-The following workflow step includes placing the response elements. These are the  `taskvalue` response fields, `taskscale`a categorical evaluation based on the defined numerical and verbal values or `ranking2d`scales which can be descirbed verbally, and the `stimulus` equivalent of `ranking2d` which allows a constant stimuli.
+The following step of the workflow includes placing the response elements. These are the  `taskvalue` response fields, `taskscale`a categorical evaluation based on the defined numerical and verbal values or `ranking2d`scales which can be descirbed verbally, and the `stimulus` equivalent of `ranking2d` which allows a constant stimuli.
 
 ## Defining the response elements
 
-The response elements need to be further defined using the 'Setting' tab. The tasks which can be further defined include  `taskedit`(name, colour),`taskvalues` (name, labels, values, distribution of colour), `taskscale` (pattern, name, minimum, maximum, step, descriptors, values, colour) `ranking2d` (name, stimuli randomisation, axis descriprion). Special graphical elements of graphical styles and layers can be also set (open style and layer manager).
+The response elements can to be further finaly defined using the 'Settings' tab. The tasks which can be defined in this way include `taskedit`(name, colour),`taskvalues` (name, labels, values, distribution of colour), `taskscale` (pattern, name, minimum, maximum, step, descriptors, values, colour) `ranking2d` (name, stimuli randomisation, axis descriprion). Special  graphical styles and layers of graphical elements can be also set in this manner (open style and layer manager).
