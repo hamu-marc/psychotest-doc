@@ -1,4 +1,3 @@
 # Pomůcky při editaci
 
-V editačním módu jsou dostupné tyto pomůcky: Náhled, Rychlý manuál, Seznam stimulů, Adresa testu, Přehrát test
-
+Úpravu a tvorbu testů lze provádět v editačním módu pomocí příkazů i prostřednictvím grafického návrhu.  V editačním modu jsou dostupné následující pomůcky: Náhled, Rychlý manuál, Seznam stimulů, Adresa testu, Přehrát test
