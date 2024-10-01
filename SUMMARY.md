@@ -56,6 +56,7 @@
     * [The picture and its presentation on the left, right and above](english-documentation/types-of-stimuli-and-their-presentation/the-picture-and-its-presentation-on-the-left-right-and-above.md)
     * [Video](english-documentation/types-of-stimuli-and-their-presentation/video.md)
     * [Permanent presence of stimuli on a screen](english-documentation/types-of-stimuli-and-their-presentation/permanent-presence-of-stimuli-on-a-screen.md)
+  * [Graphical design](english-documentation/graphical-design.md)
   * [Types of tasks and their presentation](english-documentation/types-of-tasks-and-their-presentation/README.md)
     * [Scales and options for their rendering (scale)](english-documentation/types-of-tasks-and-their-presentation/scales-and-options-for-their-rendering-scale.md)
     * [Checkbox fields (checkboxvalues)](english-documentation/types-of-tasks-and-their-presentation/checkbox-fields-checkboxvalues.md)

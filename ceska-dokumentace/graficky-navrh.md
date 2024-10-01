@@ -2,7 +2,7 @@
 
 V rádmci editačního módu lze pro návrh obrazovek použít grafické prostředí (grafický návrh).  Tento způsob editace a doplňuje práci se slovními přikazy v příkazové řádce . Před užitím grafického návrhu je také tímto způsobem třeba založit obrazovky a vložit stimuli. Posléze je možné otevřít grafický editor poklepáním na záložku 'Grafický návrh' na liště nad editačním oknem
 
-Grafický editor užívá grafické rozhraní knihovny GrapeJs. Účelem následujících odstavců podrobněji představit jeho konkrétní provedení. Pracovní postup při práci s grafickým editorem se skládá s jednotlivých po sobě jdoucích kroků a je takto proto také představen v následucjícíh odstavcích.&#x20;
+Grafický editor užívá grafické rozhraní knihovny GrapeJs. Pracovní postup při práci s grafickým editorem se skládá s jednotlivých po sobě jdoucích kroků a je takto proto také představen v následucjícíh odstavcích.&#x20;
 
 ## Návrh velikosti obrazovky
 
