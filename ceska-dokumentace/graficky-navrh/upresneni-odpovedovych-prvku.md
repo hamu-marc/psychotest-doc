@@ -1,6 +1,6 @@
 # Upřesnění odpověďových prvků
 
-Na závěr lze odpověďově prvky dále upřesnit prostřednictvím tlačítka 'Settings' na liště.&#x20;
+Na závěr lze odpověďově prvky dále upřesnit nastavením 'Settings' na liště.&#x20;
 
 <figure><img src="../../.gitbook/assets/Settings.png" alt="" width="36"><figcaption></figcaption></figure>
 
